@@ -19,5 +19,6 @@ def deluxe_curfew_checker(time)
 end
 
 def platinum_curfew_checker(current_time, curfew_time)
-  # code goes here
+  if time = 11
+    puts ""
 end
